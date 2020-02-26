@@ -1,10 +1,10 @@
 {
   "name": "rxjs-sandbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ho realizzato questo repository con una configurazione iniziale di un laboratorio per gli Observables (RxJS).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --mode development"
   },
   "keywords": [],
   "author": "",
@@ -17,9 +17,10 @@
     "webpack-dev-server": "^3.9.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.11"
   },
-  "scripts": {
-    "start": "webpack-dev-server --mode development"
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/AugustoCiuffoletti/rxjs-sandbox"
   }
 }
