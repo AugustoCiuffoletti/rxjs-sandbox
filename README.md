@@ -10,7 +10,7 @@ Dopo aver clonato il repository, entrare nella directory e dare il comando:
 
 per installare la piattaforma di sviluppo 
 
-Il programma TypeScript da provare va in src/index.html.
+Il programma TypeScript da provare va in src/esempio.ts. E' possibile copiare uno degli altri file presenti nell'archivio sul file esempio.ts per provarlo e modificarlo.
 
 Quando il programma è a posto compilare ed lanciare il server con il comando:
 
